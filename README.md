@@ -1,0 +1,2 @@
+# stargit
+Git starter project
